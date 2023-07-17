@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.bg-container {
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.destination-list {
+  display: flex;
+  flex-wrap: wrap;
+  width: 60%;
+  justify-content: center;
+  align-items: center;
+}
+.search-icon {
+  height: 20px;
+  width: 20px;
+}
